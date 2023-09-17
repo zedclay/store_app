@@ -18,10 +18,12 @@ For detailed guidance on Flutter development, refer to the [online documentation
 ## Screenshots
 
 <p align="center">
-  <img src="https://i.imgur.com/7YEBpF4.png" alt="Screenshots">
-</p>
-<p align="center">
-  <img src="https://i.imgur.com/fj441MI.png" alt="Screenshots">
+  <table>
+    <tr>
+      <td><img src="https://i.imgur.com/7YEBpF4.png" alt="Screenshot 1"></td>
+      <td><img src="https://i.imgur.com/fj441MI.png" alt="Screenshot 2"></td>
+    </tr>
+  </table>
 </p>
 
 ## How to Use
